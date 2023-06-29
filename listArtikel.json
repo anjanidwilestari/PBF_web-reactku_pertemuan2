@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Workshop Amazon Web Services (AWS) Untuk Para Dosen Jurusan Teknologi Informasi Politeknik Negeri Malang",
+      "body": "Jumat (24/1/2020), Jurusan Teknologi Informasi Politeknik Negeri Malang (JTI Polinema) menyelenggarakan workshop tentang Amazon Web Services (AWS) yang bertempat di Lantai 7, Ruang LKJ 2, Gedung Teknik Sipil Polinema. Workshop ini diadakan untuk menunjang performa dan..."
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Pelaksanaan Rapat Hasil Akhir Yudisium Semester Ganjil 2019/2020",
+      "body": "Jumat (17/1/20) kemarin, Jurusan Teknologi Informasi Politeknik Negeri Malang (JTI Polinema) menyelenggarakan rapat hasil yudisium semester ganjil tahun ajaran 2019/2020. Acara ini dimulai pada jam 8.30 dan bertempat di lantai 8, Gedung Teknik Sipil, Politeknik Negeri..."
+    },
+    {
+      "userId": 1,
+      "id": 1647361050775,
+      "title": "FGD Pembentukan Komite Kurikulum D-IV SIB",
+      "body": "Setelah melalui beberapa rangkaian acara untuk berdiskusi tentang program studi baru yaitu D-IV Sistem Informasi Bisnis (SIB) yang akan hadir di Politeknik Negeri Malang (Polinema) khususnya Jurusan Teknologi Informasi (JTI) sampailah kita pada tahap pembentukan komite kurikulum D-IV SIB..."
+    },
+    {
+      "userId": 1,
+      "id": 1678281038046,
+      "title": "PBF - TI3E",
+      "body": "Kelas TI-3E pada semester 6 berkesempatan belajar mata kuliah Pemrograman Berbasis Framework dengan dosen pengampu pak Hasyim. Kelas dilaksanakan tiap hari Selasa"
+    },
+    {
+      "userId": 1,
+      "id": 1678447681661,
+      "title": "Studi Banding HMTI POLINEMA dan HMS POLBAN",
+      "body": "Acara diselenggarakan dengan baik dan penutupan yang terhormat oleh pidato public figur Mentri Kominfo"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
